@@ -1,0 +1,12 @@
+{
+	"root": true,
+	"plugins": ["prettier"],
+	"env": {
+		"browser": true,
+		"node": true
+	},
+	"rules": {
+		"curly": ["error", "multi", "consistent"],
+		"prettier/prettier": "error"
+	}
+}
