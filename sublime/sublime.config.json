@@ -10,16 +10,15 @@
     "coverage",
     "vendor",
     "node_modules"
- ],
-  "font_size": 14,
-  "margin": 2,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "save_on_focus_lost": true,
+  ],
+  "font_size": 15,
   "ignored_packages":
   [
     "Markdown",
     "Vintage"
   ],
-  "theme": "Seti.sublime-theme"
+  "margin": 2,
+  "tab_size": 2,
+  "theme": "Seti.sublime-theme",
+  "translate_tabs_to_spaces": true
 }
